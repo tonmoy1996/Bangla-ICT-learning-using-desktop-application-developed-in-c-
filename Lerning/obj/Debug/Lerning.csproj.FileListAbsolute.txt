@@ -1,0 +1,38 @@
+c:\users\trust computer\documents\visual studio 2013\Projects\Lerning\Lerning\bin\Debug\Lerning.exe.config
+c:\users\trust computer\documents\visual studio 2013\Projects\Lerning\Lerning\bin\Debug\Lerning.exe
+c:\users\trust computer\documents\visual studio 2013\Projects\Lerning\Lerning\bin\Debug\Lerning.pdb
+c:\users\trust computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.csprojResolveAssemblyReference.cache
+c:\users\trust computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.Form1.resources
+c:\users\trust computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.Properties.Resources.resources
+c:\users\trust computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.csproj.GenerateResource.Cache
+c:\users\trust computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.exe
+c:\users\trust computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.pdb
+C:\Users\Trust Computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.class1.resources
+C:\Users\Trust Computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.c2.resources
+C:\Users\Trust Computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.class6.resources
+C:\Users\Trust Computer\documents\visual studio 2013\Projects\Lerning\Lerning\bin\Debug\Interop.WMPLib.dll
+C:\Users\Trust Computer\documents\visual studio 2013\Projects\Lerning\Lerning\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Trust Computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Interop.WMPLib.dll
+C:\Users\Trust Computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Trust Computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.csproj.ResolveComReference.cache
+C:\Users\Trust Computer\documents\visual studio 2013\Projects\Lerning\Lerning\obj\Debug\Lerning.quiz.resources
+C:\Users\sahat\Desktop\Lerning\Lerning\bin\Debug\Lerning.exe.config
+C:\Users\sahat\Desktop\Lerning\Lerning\bin\Debug\Lerning.exe
+C:\Users\sahat\Desktop\Lerning\Lerning\bin\Debug\Lerning.pdb
+C:\Users\sahat\Desktop\Lerning\Lerning\bin\Debug\Interop.WMPLib.dll
+C:\Users\sahat\Desktop\Lerning\Lerning\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.csprojAssemblyReference.cache
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Interop.WMPLib.dll
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.csproj.ResolveComReference.cache
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.c2.resources
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.class1.resources
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.class6.resources
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.Form1.resources
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.Properties.Resources.resources
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.quiz.resources
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.csproj.GenerateResource.cache
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.csproj.CoreCompileInputs.cache
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.csproj.CopyComplete
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.exe
+C:\Users\sahat\Desktop\Lerning\Lerning\obj\Debug\Lerning.pdb
